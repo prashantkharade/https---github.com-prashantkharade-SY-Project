@@ -2,7 +2,7 @@
 	import '../app.css';
 </script>
 
-<header class="bg-slate-400 font-bold text-center h-14">Bank Of Ralegan</header>
+<header class="bg-green-400 font-bold text-center h-14">Bank Of Ralegan</header>
 
 <div class="w-full h-96 bg-teal-400">
 	<h1 class="text-7xl subpixel-antialiased font-normal text-center font-sans text-pink-500 pt-12">
@@ -97,5 +97,5 @@
 	</p>
 </div>
 
-<footer class=" bg-slate-400 font-bold text-center h-14">copyright to Mr. PRASHANT KHARADE</footer>
+<footer class=" bg-green-400 font-bold text-center h-14">copyright to Mr. PRASHANT KHARADE</footer>
 <slot />
